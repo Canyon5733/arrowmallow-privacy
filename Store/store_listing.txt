@@ -1,0 +1,80 @@
+ARROWMALLOW — NỘI DUNG TRANG GOOGLE PLAY
+(Dán vào Play Console > Phát triển (Grow) > Trang thông tin chính trên Cửa hàng (Main store listing).
+ Giới hạn: tên 30 ký tự, mô tả ngắn 80 ký tự, mô tả đầy đủ 4000 ký tự. Các đoạn dưới đây đã nằm trong giới hạn.)
+
+Danh mục gợi ý: Trò chơi > Giải đố (Games > Puzzle)
+Thẻ gợi ý: Giải đố, Logic, Thư giãn, Đố vui trí não
+
+==================================================================
+TIẾNG VIỆT (vi-VN)
+==================================================================
+
+TÊN ỨNG DỤNG (25/30)
+Arrowmallow: Arrow Puzzle
+
+MÔ TẢ NGẮN (74/80)
+Gỡ từng mũi tên khỏi bàn: câu đố nhẹ nhàng, dễ chơi mà càng chơi càng cuốn
+
+MÔ TẢ ĐẦY ĐỦ
+Arrowmallow là trò chơi giải đố nhẹ nhàng mà cuốn hút. Chạm vào một mũi tên, nó sẽ trượt ra khỏi bàn theo hướng đầu mũi tên. Nhưng nếu đường đi bị chặn, mũi tên sẽ va vào mũi tên khác và bạn mất một tim. Tìm đúng thứ tự, gỡ sạch bàn và giành đủ 3 sao!
+
+★ CÁCH CHƠI
+• Chạm một mũi tên để gỡ nó ra khỏi bàn
+• Mũi tên luôn đi theo hướng đầu mũi tên, kể cả mũi tên gấp khúc
+• Va vào mũi tên khác là mất một tim
+• Bàn lớn quá? Dùng hai ngón tay để phóng to và kéo bàn
+
+★ ĐIỂM NỔI BẬT
+• Màn chơi không giới hạn, khó dần từng chút: bàn rộng hơn, mũi tên dài hơn, nhiều khúc rẽ hơn
+• Màn "trùm" sau mỗi 10 level cho người thích thử thách
+• Thử thách hằng ngày: mỗi ngày một bàn mới, giữ chuỗi ngày liên tiếp để nhận thêm xu
+• 8 bộ skin mũi tên: Pastel ấm, Cổ điển, Kẹo ngọt, Đại dương, Rừng xanh, Hoàng hôn, Neon, Hoàng kim
+• Gợi ý khi bị kẹt, lời nhắc nhẹ nhàng để không lỡ chuỗi ngày
+• Không đếm giờ, chơi được khi không có mạng
+• Nhạc nền êm dịu, rung nhẹ mỗi lần chạm
+• Hỗ trợ 12 ngôn ngữ
+
+Arrowmallow dành cho những lúc bạn muốn thư giãn đầu óc: vài phút trên xe buýt, giờ nghỉ trưa hay trước khi ngủ. Tải về và gỡ mũi tên đầu tiên ngay nhé!
+
+
+==================================================================
+ENGLISH (en-US)
+==================================================================
+
+APP NAME (25/30)
+Arrowmallow: Arrow Puzzle
+
+SHORT DESCRIPTION (74/80)
+Tap arrows to slide them off the board. A calm puzzle that's easy to love.
+
+FULL DESCRIPTION
+Arrowmallow is a calm, satisfying puzzle game. Tap an arrow and it slides off the board in the direction it points. But if its path is blocked, it bumps into another arrow and you lose a heart. Find the right order, clear the board and earn all 3 stars!
+
+★ HOW TO PLAY
+• Tap an arrow to send it off the board
+• Arrows always move the way their head points, even the bendy ones
+• Bump into another arrow and you lose a heart
+• Big board? Pinch to zoom and drag to look around
+
+★ FEATURES
+• Endless levels that get harder little by little: bigger boards, longer arrows, more twists
+• A "boss" level every 10 levels for when you want a real challenge
+• Daily Challenge: a new board every day; keep your streak going for bonus coins
+• 8 arrow skins: Warm Pastel, Classic, Candy, Ocean, Forest, Sunset, Neon, Gold
+• Hints when you're stuck, and gentle reminders so you never lose your streak
+• No timers, and you can play offline
+• Soothing background music and soft haptics
+• Available in 12 languages
+
+Arrowmallow is made for the moments you want to unwind: a few minutes on the bus, a lunch break, or right before bed. Download it and free your first arrow today!
+
+
+==================================================================
+ẢNH CHỤP MÀN HÌNH (gợi ý chú thích, mỗi ảnh một ý)
+==================================================================
+1. Màn chơi đầu (bàn nhỏ, vài mũi tên)       — "Gỡ từng mũi tên"           / "Free every arrow"
+2. Màn chơi lớn hơn, có mũi tên gấp khúc    — "Khó dần từng chút"        / "Harder little by little"
+3. Popup Thử thách hằng ngày (có chuỗi ngày) — "Thử thách mỗi ngày"        / "A new challenge every day"
+4. Cửa hàng skin                             — "Đổi skin cho mũi tên"      / "Collect arrow skins"
+5. Màn chơi với skin Neon                    — "Đẹp mắt, êm tai"           / "Pretty, calm and cozy"
+6. Popup Thắng 3 sao                         — "Giành đủ 3 sao"            / "Earn all 3 stars"
